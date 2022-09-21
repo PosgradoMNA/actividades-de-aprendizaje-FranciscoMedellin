@@ -21,7 +21,7 @@ actividades-de-aprendizaje-FranciscoMedellin
 │       │   ...
 │   
 └───Modulo2
-    |   Review_Questions.pdf
+|   |   Review_Questions.pdf
 │   └───Labs
 │       │   Lab2-01-xxx.ipynb
 │       │   Lab2-02-xxx.ipynb
