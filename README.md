@@ -1,16 +1,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8478776&assignment_repo_type=AssignmentRepo)
 # Actividades_Aprendizaje-
+Este repositorio contiene las actividades de clase y dentro de las carpetas de cada curso se encuentran los labs y los test de cada modulo de los cursos de IBM.
+Cursos:
 - Curso Python for Data Science de IBM: (https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+PY0101EN+v3/course/).
-- Por semana el maestro solicitara actividades de avance de n cantidad de modulos del curso, las cuales se entregaran solo en forma de notas personales como evidencia del progreso del curso.
+- Curso Data Analysis with Python de IBM.
 
-# Estructura de directorios.
+# Estructura de los directorios.
 ```
-actividades-de-aprendizaje-FranciscoMedellin
-│   README.md
-│   Actividad_1_Notas.ipynb
-|   Actividad_2_Notas.ipynb
-|   ...
-|   plantilla.ipynb
+Curso Python for Data Science
+│
 │
 └───Modulo1
 │   │   Review_Questions.pdf
@@ -26,4 +24,30 @@ actividades-de-aprendizaje-FranciscoMedellin
 │       │   Lab2-01-xxx.ipynb
 │       │   Lab2-02-xxx.ipynb
 │
+│ 
+Curso Data Analysis with Python
+│
+│
+└───Modulo1
+│   │   Review_Questions.pdf
+│   │
+│   └───Labs
+│       │   Lab1-01-xxx.ipynb
+│       │   Lab1-02-xxx.ipynb
+│       │   ...
+│   
+└───Modulo2
+|   |   Review_Questions.pdf
+│   └───Labs
+│       │   Lab2-01-xxx.ipynb
+│       │   Lab2-02-xxx.ipynb
+│ 
+│ 
+│ 
+└───Semana_1_Actividad_XX_Name
+└───Semana_2_Actividad_XX_Name
+└───Semana_3_Actividad_XX_Name
+└───Semana_4_Actividad_XX_Name
+└───Semana_N_Actividad_XX_Name
+
 ```
